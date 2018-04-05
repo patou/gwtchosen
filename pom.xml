@@ -67,16 +67,16 @@
     </ciManagement>
 
     <properties>
-        <gwt.version>2.7.0</gwt.version>
-        <gwtquery.version>1.4.3</gwtquery.version>
+        <gwt.version>2.8.2</gwt.version>
+        <gwtquery.version>1.5-beta1</gwtquery.version>
         <junit.version>4.11</junit.version>
-        <guava.version>18.0</guava.version>
+        <guava.version>24.1-jre</guava.version>
         <gsss.version>1.0</gsss.version>
         <checkstyle.version>6.9</checkstyle.version>
         <arcbees-checkstyle.version>1.2</arcbees-checkstyle.version>
 
         <!-- maven -->
-        <target.jdk>1.6</target.jdk>
+        <target.jdk>1.8</target.jdk>
         <maven-javadoc-plugin.version>2.10.3</maven-javadoc-plugin.version>
         <maven-surefire-plugin.version>2.12</maven-surefire-plugin.version>
         <maven-failsafe-plugin.version>2.17</maven-failsafe-plugin.version>
